@@ -1,7 +1,264 @@
-本项目允许任何人部署、宣传
+========================================================================================
+             ADDITIONAL TERMS AND CONDITIONS FOR ASTRA LMFP PROJECT
+                 Astra LMFP 项目特制附加条款与商用限制声明
+========================================================================================
+This project is licensed under the Apache License, Version 2.0 (the "License") specified
+below, subject to the following explicit upstream author stipulations and modifications.
+You may not use this software except in compliance with both the License and these 
+additional terms.
 
-商用（包括但不限于收费、特权、赞助等所有营利性（只要部署者的钱包（包括但不限于电子钱包、物理钱包、数字钱包）以及里面的钱（包括所有的法定货币（全球（地球）））和本项目有任何关联或者以任何方式收取用户（包含所有使用部署者部署的软件的人）的任何物品（包含任何虚拟物品、情绪抚慰）以让用户（上文提到）获得任何特殊待遇（包括但不限于解锁特定功能等）都算））需联系我获得许可
+----------------------------------------------------------------------------------------
+PART 1: UPSTREAM AUTHOR AND COPYRIGHT PROTECTION (原作者及原版权权益保护)
+----------------------------------------------------------------------------------------
 
-无论公益还是商业 文件中的开发者以及联系方式文本都需要保留 禁止删除、修改
+1. ORIGINAL DEVELOPER ATTRIBUTION (开发者身份与联系方式永久保留)
+   - Original Developer: Lyt (Lyt_IT Studio)
+   - Official Contact (QQ): 2232908600
+   - Original Project Demo: https://www.teft.cn/
+   
+   [STRICT REQUISITE] Regardless of whether the deployment is for public welfare, charity, 
+   or commercial purposes, the text containing the original developer's identity, name, 
+   and contact information within this file and the software interface MUST BE PERMANENTLY 
+   RETAINED. Any form of deletion, modification, or obscuring is STRICTLY PROHIBITED.
+   (无论项目是以公益、慈善还是商业形式部署，本文件及软件界面中包含的原作者身份、名称与联系方式
+   必须永久保留。禁止任何形式的删除、修改或遮挡。)
 
-没错 就是这么草率的许可证
+2. COMMERCIAL USE DEFINITION & PERMISSION (商业用途之绝对定义与许可限制)
+   - This project allows anyone to deploy and promote freely for pure non-profit public welfare.
+     (本项目允许任何人针对纯非营利性公益目的进行自由部署与宣传。)
+   
+   - ANY COMMERCIAL USE MUST OBTAIN EXPLICIT PERMISSION FROM THE ORIGINAL DEVELOPER (LYT).
+     (一切商业性用途均必须事先获得原作者 Lyt 的明确许可授权。)
+
+   - [COMPREHENSIVE DEFINITION OF COMMERCIAL USE]
+     "Commercial Use" or "Profitable Behavior" under this license is defined with the absolute 
+     broadest scope, including but not limited to:
+     * Charging any fees, selling membership privileges, accepting sponsorships, or any other 
+       revenue-generating actions.
+     * Any scenario where the deployer's wallet (including but not limited to electronic wallets, 
+       physical wallets, and digital cryptocurrency wallets) or the fiat currency/assets contained 
+       therein (of any global/earth jurisdiction) establishes any connection or transaction with 
+       this project.
+     * Receiving any item (including all virtual items, digital assets, or emotional comforting/gifts) 
+       from any user (anyone utilizing the deployed software) in exchange for providing special 
+       treatment (including but not limited to unlocking specific features, speed acceleration, 
+       or priority access).
+     
+     (本许可证下的“商业用途”或“营利行为”具有最广泛的绝对定义，包括但不限于：
+     * 收取任何费用、开通特权、赞助，或任何其他营利行为。
+     * 部署者的钱包（包括但不限于电子钱包、物理钱包、数字货币钱包）及其中包含的钱财（全球/地球上
+       所有法定货币）与本项目产生任何关联或以任何方式收取资金。
+     * 以任何形式收取用户（包含所有使用部署者部署的软件的人）的任何物品（包含任何虚拟物品、
+       情绪抚慰/礼物），以让该用户获得任何特殊待遇（包括但不限于解锁特定功能、加速或优先权）。)
+
+----------------------------------------------------------------------------------------
+PART 2: ASTRANEXUS MODIFICATION AND EXTENSION TERMS (AstraNexus 后期修改扩展条款)
+----------------------------------------------------------------------------------------
+
+1. MODIFICATION AUTHORITY (修改分支授权说明)
+   The modernization of the UI, multi-platform adaptation, and asynchronous performance 
+   optimizations in this branch are independently developed and managed by the AstraNexus Team 
+   under deep collaboration with the original author.
+   (本分支中的 UI 现代化重构、多平台适配及异步性能优化，由 AstraNexus 团队在与原作者的深度合作下
+   独立开发并维护。)
+
+2. FUTURE COMPLIANCE AND RESTRICTIONS (后期同步与分发合规声明)
+   All codes, architectural extensions, and interface wrappers written by the AstraNexus Team 
+   are distributed under the terms of the Apache License 2.0. 
+   
+   However, notice is hereby given that the AstraNexus Team reserves the absolute right to 
+   implement synchronizational masking, behavioral filtering, and risk control interceptions 
+   on data distribution/synchronization in subsequent versions to maintain ecosystem stability. 
+   Any derivative works modifying these control behaviors must prominently state such alterations 
+   in accordance with Section 4 of the Apache License 2.0.
+   (由 AstraNexus 团队编写的所有代码、架构扩展与界面外壳均依据 Apache 2.0 协议条款分发。
+   特此声明，AstraNexus team 保留在后续版本中对数据分发与同步行为实施同步屏蔽、行为过滤及风控拦截
+   的绝对权利，以维护生态稳定性。任何修改此类控制行为的衍生作品必须根据 Apache 2.0 第 4 条显著
+   声明此类变更。)
+
+
+========================================================================================
+                                 APACHE LICENSE TEXT
+========================================================================================
+
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/ [cite: 1]
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION [cite: 1]
+
+   1. Definitions. [cite: 1]
+      "License" shall mean the terms and conditions for use, reproduction, [cite: 2]
+      and distribution as defined by Sections 1 through 9 of this document. [cite: 2]
+      "Licensor" shall mean the copyright owner or entity authorized by [cite: 3]
+      the copyright owner that is granting the License. [cite: 3]
+      "Legal Entity" shall mean the union of the acting entity and all [cite: 4]
+      other entities that control, are controlled by, or are under common [cite: 4]
+      control with that entity. [cite: 4] For the purposes of this definition, [cite: 4]
+      "control" means (i) the power, direct or indirect, to cause the [cite: 5]
+      direction or management of such entity, whether by contract or [cite: 5]
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the [cite: 5]
+      outstanding shares, or (iii) beneficial ownership of such entity. [cite: 5]
+      "You" (or "Your") shall mean an individual or Legal Entity [cite: 6]
+      exercising permissions granted by this License. [cite: 6]
+      "Source" form shall mean the preferred form for making modifications, [cite: 7]
+      including but not limited to software source code, documentation [cite: 7]
+      source, and configuration files. [cite: 7]
+      "Object" form shall mean any form resulting from mechanical [cite: 8]
+      transformation or translation of a Source form, including but [cite: 8]
+      not limited to compiled object code, generated documentation, [cite: 8]
+      and conversions to other media types. [cite: 8]
+      "Work" shall mean the work of authorship, whether in Source or [cite: 9]
+      Object form, made available under the License, as indicated by a [cite: 9]
+      copyright notice that is included in or attached to the work [cite: 9]
+      (an example is provided in the Appendix below). [cite: 9]
+      "Derivative Works" shall mean any work, whether in Source or Object [cite: 10]
+      form, that is based on (or derived from) the Work and for which the [cite: 10]
+      editorial revisions, annotations, elaborations, or other modifications [cite: 10]
+      represent, as a whole, an original work of authorship. [cite: 10] For the purposes [cite: 10]
+      of this License, Derivative Works shall not include works that remain [cite: 11]
+      separable from, or merely link (or bind by name) to the interfaces of, [cite: 11]
+      the Work and Derivative Works thereof. [cite: 11]
+      "Contribution" shall mean any work of authorship, including [cite: 12]
+      the original version of the Work and any modifications or additions [cite: 12]
+      to that Work or Derivative Works thereof, that is intentionally [cite: 12]
+      submitted to Licensor for inclusion in the Work by the copyright owner [cite: 12]
+      or by an individual or Legal Entity authorized to submit on behalf of [cite: 12]
+      the copyright owner. [cite: 12] For the purposes of this definition, "submitted" [cite: 13]
+      means any form of electronic, verbal, or written communication sent [cite: 13]
+      to the Licensor or its representatives, including but not limited to [cite: 13]
+      communication on electronic mailing lists, source code control systems, [cite: 13]
+      and issue tracking systems that are managed by, or on behalf of, the [cite: 13]
+      Licensor for the purpose of discussing and improving the Work, but [cite: 13]
+      excluding communication that is conspicuously marked or otherwise [cite: 13]
+      designated in writing by the copyright owner as "Not a Contribution." [cite: 14]
+      "Contributor" shall mean Licensor and any individual or Legal Entity [cite: 15]
+      on behalf of whom a Contribution has been received by Licensor and [cite: 15]
+      subsequently incorporated within the Work. [cite: 15]
+
+   2. Grant of Copyright License. Subject to the terms and conditions of [cite: 16]
+      this License, each Contributor hereby grants to You a perpetual, [cite: 16]
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable [cite: 16]
+      copyright license to reproduce, prepare Derivative Works of, [cite: 16]
+      publicly display, publicly perform, sublicense, and distribute the [cite: 16]
+      Work and such Derivative Works in Source or Object form. [cite: 16]
+
+   3. Grant of Patent License. Subject to the terms and conditions of [cite: 17]
+      this License, each Contributor hereby grants to You a perpetual, [cite: 17]
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable [cite: 17]
+      (except as stated in this section) patent license to make, have made, [cite: 17]
+      use, offer to sell, sell, import, and otherwise transfer the Work, [cite: 17]
+      where such license applies only to those patent claims licensable [cite: 17]
+      by such Contributor that are necessarily infringed by their [cite: 17]
+      Contribution(s) alone or by combination of their Contribution(s) [cite: 18]
+      with the Work to which such Contribution(s) was submitted. [cite: 18] If You [cite: 18]
+      institute patent litigation against any entity (including a [cite: 19]
+      cross-claim or counterclaim in a lawsuit) alleging that the Work [cite: 19]
+      or a Contribution incorporated within the Work constitutes direct [cite: 19]
+      or contributory patent infringement, then any patent licenses [cite: 19]
+      granted to You under this License for that Work shall terminate [cite: 19]
+      as of the date such litigation is filed. [cite: 19]
+
+   4. Redistribution. You may reproduce and distribute copies of the [cite: 20]
+      Work or Derivative Works thereof in any medium, with or without [cite: 20]
+      modifications, and in Source or Object form, provided that You [cite: 20]
+      meet the following conditions: [cite: 20]
+
+      (a) You must give any other recipients of the Work or [cite: 20]
+          Derivative Works a copy of this License; and [cite: 20, 21]
+
+      (b) You must cause any modified files to carry prominent notices [cite: 21]
+          stating that You changed the files; and [cite: 21, 22]
+
+      (c) You must retain, in the Source form of any Derivative Works [cite: 22]
+          that You distribute, all copyright, patent, trademark, and [cite: 22]
+          attribution notices from the Source form of the Work, [cite: 22]
+          excluding those notices that do not pertain to any part of [cite: 22]
+          the Derivative Works; and [cite: 22, 23]
+
+      (d) If the Work includes a "NOTICE" text file as part of its [cite: 23]
+          distribution, then any Derivative Works that You distribute must [cite: 23]
+          include a readable copy of the attribution notices contained [cite: 23]
+          within such NOTICE file, excluding those notices that do not [cite: 23]
+          pertain to any part of the Derivative Works, in at least one [cite: 23]
+          of the following places: within a NOTICE text file distributed [cite: 24]
+          as part of the Derivative Works; within the Source form or [cite: 24, 25]
+          documentation, if provided along with the Derivative Works; [cite: 25] or, [cite: 25, 26]
+          within a display generated by the Derivative Works, if and [cite: 26]
+          wherever such third-party notices normally appear. [cite: 26] The contents [cite: 26, 27]
+          of the NOTICE file are for informational purposes only and [cite: 27]
+          do not modify the License. [cite: 27] You may add Your own attribution [cite: 27, 28]
+          notices within Derivative Works that You distribute, alongside [cite: 28]
+          or as an addendum to the NOTICE text from the Work, provided [cite: 28]
+          that such additional attribution notices cannot be construed [cite: 28]
+          as modifying the License. [cite: 28]
+
+      You may add Your own copyright statement to Your modifications and 
+      may provide additional or different license terms and conditions 
+      for use, reproduction, or distribution of Your modifications, or 
+      for any such Derivative Works as a whole, provided Your use, 
+      reproduction, and distribution of the Work otherwise complies with 
+      the conditions stated in this License. 
+
+   5. Submission of Contributions. Unless You explicitly state otherwise, [cite: 30]
+      any Contribution intentionally submitted for inclusion in the Work [cite: 30]
+      by You to the Licensor shall be under the terms and conditions of [cite: 30]
+      this License, without any additional terms or conditions. [cite: 30]
+      Notwithstanding the above, nothing herein shall supersede or modify [cite: 31]
+      the terms of any separate license agreement you may have executed [cite: 31]
+      with Licensor regarding such Contributions. [cite: 31]
+
+   6. Trademarks. This License does not grant permission to use the trade [cite: 32]
+      names, trademarks, service marks, or product names of the Licensor, [cite: 32]
+      except as required for reasonable and customary use in describing the [cite: 32]
+      origin of the Work and reproducing the content of the NOTICE file. [cite: 32]
+
+   7. Disclaimer of Warranty. Unless required by applicable law or [cite: 33]
+      agreed to in writing, Licensor provides the Work (and each [cite: 33]
+      Contributor provides its Contributions) on an "AS IS" BASIS, [cite: 33]
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or [cite: 33]
+      implied, including, without limitation, any warranties or conditions [cite: 33]
+      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A [cite: 33]
+      PARTICULAR PURPOSE. [cite: 33] You are solely responsible for determining the [cite: 34]
+      appropriateness of using or redistributing the Work and assume any [cite: 34]
+      risks associated with Your exercise of permissions under this License. [cite: 34]
+
+   8. Limitation of Liability. In no event and under no legal theory, [cite: 35]
+      whether in tort (including negligence), contract, or otherwise, [cite: 35]
+      unless required by applicable law (such as deliberate and grossly [cite: 35]
+      negligent acts) or agreed to in writing, shall any Contributor be [cite: 35]
+      liable to You for damages, including any direct, indirect, special, [cite: 35]
+      incidental, or consequential damages of any character arising as a [cite: 35]
+      result of this License or out of the use or inability to use the [cite: 35, 36]
+      Work (including but not limited to damages for loss of goodwill, [cite: 36]
+      work stoppage, computer failure or malfunction, or any and all [cite: 36]
+      other commercial damages or losses), even if such Contributor [cite: 36]
+      has been advised of the possibility of such damages. [cite: 36]
+
+   9. Accepting Warranty or Additional Liability. While redistributing [cite: 37]
+      the Work or Derivative Works thereof, You may choose to offer, [cite: 37]
+      and charge a fee for, acceptance of support, warranty, indemnity, [cite: 37]
+      or other liability obligations and/or rights consistent with this [cite: 37]
+      License. [cite: 37] However, in accepting such obligations, You may act only [cite: 38]
+      on Your own behalf and on Your sole responsibility, not on behalf [cite: 38]
+      of any other Contributor, and only if You agree to indemnify, [cite: 38]
+      defend, and hold each Contributor harmless for any liability [cite: 38]
+      incurred by, or claims asserted against, such Contributor by reason [cite: 38]
+      of your accepting any such warranty or additional liability. [cite: 38]
+
+   END OF TERMS AND CONDITIONS [cite: 39]
+
+
+Copyright 2026 AstraNexus Team&Lyt_IT Studio
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
